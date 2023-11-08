@@ -1,0 +1,23 @@
+.container{
+    margin: 0 auto;
+    width: 400px;
+}
+img {
+    width: 400px;
+}
+.title {
+    margin: 0;
+}
+.post-header{
+    display: flex;
+    width: 400px;
+}
+.right {
+   margin-left: auto;
+}
+.post-icons{
+    display: flex;
+}
+i {
+    padding: 3px;
+}
