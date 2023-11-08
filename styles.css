@@ -21,3 +21,6 @@ img {
 i {
     padding: 3px;
 }
+.description {
+    text-align: justify;
+}
